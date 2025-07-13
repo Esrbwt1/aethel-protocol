@@ -1,5 +1,6 @@
 # The Aethel Protocol: A Definitive Guide
 
+
 ## Abstract
 
 Aethel is a novel layer-1 blockchain protocol architected to power a decentralized economy based on the creation and verification of tangible, real-world value. It introduces a groundbreaking consensus mechanism, **Proof-of-Value (PoV)**, which rewards users for creating verifiable contributions across a limitless range of human endeavor—from open-source software and scientific research to art, design, and community service. The protocol features a symbiotic **dual-token system**: a non-transferable **Soulbound Reputation Token (SRT)** that quantifies a user's expertise and influence within specialized domains, and a fungible **Value Token (VAL)**, which is minted as a direct reward for verified contributions. Governance and verification are managed through a network of decentralized expert communities called **Value Guilds**, which function as sophisticated "Human Oracles." Aethel is uniquely designed to solve the "cold start" problem for new users via a built-in **Apprenticeship Protocol**, providing a clear, capital-free path for anyone to translate their skills into reputation and wealth. By directly monetizing human ingenuity at a protocol level, Aethel is designed to unlock the latent potential of its community and create a more equitable, meritocratic, and prosperous digital world.
